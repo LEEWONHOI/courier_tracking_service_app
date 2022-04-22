@@ -75,12 +75,12 @@
 
 ## 💡 참고한 문서
 
-- 스마트택배 배송조회 API Doc [ [KR_URL](https://info.sweettracker.co.kr/apidoc) ]
-- Chip [ [EN_URL](https://material.io/components/chips) ]
-- Copy and Paste [ [EN_URL](https://developer.android.com/guide/topics/text/copy-paste) ]
-- Schedule tasks with WorkManager [ [EN_URL](https://developer.android.com/topic/libraries/architecture/workmanager) ]
-- WorkManager의 CoroutineWorker의 스레딩 [ [EN_URL](https://developer.android.com/topic/libraries/architecture/workmanager/advanced/coroutineworker) ]
-- 안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자 [ [KR_URL](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/) ]
+- 스마트택배 배송조회 API Doc [ [URL](https://info.sweettracker.co.kr/apidoc) ]
+- Chip [ [URL](https://material.io/components/chips) ]
+- Copy and Paste [ [URL](https://developer.android.com/guide/topics/text/copy-paste) ]
+- Schedule tasks with WorkManager [ [URL](https://developer.android.com/topic/libraries/architecture/workmanager) ]
+- WorkManager의 CoroutineWorker의 스레딩 [ [URL](https://developer.android.com/topic/libraries/architecture/workmanager/advanced/coroutineworker) ]
+- 안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자 [ [URL](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/) ]
 
 
 <br/>

@@ -2,11 +2,11 @@
 
 
 ## 💻 Use Stack 
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <img alt="Android" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <img alt="Android" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/> <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
 
 <br/>
 
-## 📖 상세 내용
+## 📖 상세 화면
 
 <div align="center">
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27541bc4-7c79-42d2-83c1-231e9490f8a3/Screenshot_1629180090.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T033945Z&X-Amz-Expires=86400&X-Amz-Signature=943dbce773dddd645921aed93e2937de918a6ad7039ce803ae7e6c2972d843cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1629180090.png%22&x-id=GetObject" width="30%" >

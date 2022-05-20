@@ -72,7 +72,7 @@
 
 ## 📋 앱 구조
 
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6b3197b-43fb-426c-a593-0b765f1cb16e/map.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T033414Z&X-Amz-Expires=86400&X-Amz-Signature=20512638baed4b5fbe008cdb43cd1d169b4edecf441efe21fd4208d9417174c6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22map.png%22&x-id=GetObject" width="100%" >
+  <img src="https://user-images.githubusercontent.com/78194843/169428799-9c3c5de3-bae9-4848-b84a-ae316a4ad210.png" width="100%" >
 
 <br/>
 <br/>
